@@ -110,9 +110,9 @@ When you make a query, the system finds the most relevant context in the indexed
 # Extension and Customization
 Thanks to the modular architecture, you can easily extend the assistant:
 
-New document types: Extend document_processor.py
-More commands: Add cases in the run() method of ai_assistant.py
-Integration with other models: Modify the Ollama-related parts
+- **New document types: Extend document_processor.py
+- **More commands: Add cases in the run() method of ai_assistant.py
+- **Integration with other models: Modify the Ollama-related parts
 
 # License
 This project is available under the GNU General Public License v3.0 (GPL-3.0).
