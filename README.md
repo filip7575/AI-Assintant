@@ -17,6 +17,8 @@ Features
 
 🔄 Modular architecture for easy maintenance and extensibility
 
+<img src="[ruta/a/la/imagen](https://github.com/filip7575/AI-Assintant/console.jpg" alt="Descripción alternativa" style="width:200px; height:auto;" />
+
 # Project Structure
 
 ```
