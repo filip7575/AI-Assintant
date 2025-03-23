@@ -42,8 +42,8 @@ Dependencies listed in requirements.txt
 
 ### 1.- Clone the repository:
 ```
-git clone https://github.com/filip7575/ai-assistant-rag.git
-cd ai-assistant-rag
+git clone https://github.com/filip7575/AI-Assintant.git
+cd AI-Assintant
 ```
 
 ### 2.- Create and activate a virtual environment:
