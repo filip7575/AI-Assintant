@@ -1,0 +1,21 @@
+# Librerías básicas
+rich==13.7.0
+prompt_toolkit==3.0.43
+
+# Ollama - para interactuar con modelos
+ollama==0.1.5
+
+# Langchain - para el sistema RAG
+langchain==0.1.0
+langchain-community==0.0.16
+langchain-text-splitters==0.0.1
+
+# Procesamiento de documentos
+pypdf==4.0.2
+bs4==0.0.1
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Embeddings y base de datos vectorial
+chromadb==0.4.22
+sentence-transformers==2.2.2
