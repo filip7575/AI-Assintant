@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ```
 ### 4.- Make sure Ollama is installed and running
 
-Visit ollama.ai for installation instructions
+Visit ollama.com for installation instructions
 By default, the qwen2.5-coder:7b model is used, but you can change it
 
 
